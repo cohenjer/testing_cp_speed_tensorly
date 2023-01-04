@@ -1,0 +1,22 @@
+Running latest tensorly version
+Runtime for 10 CPs is 16.66701964100048
+Running tensorly version 0.7.0
+Runtime for 10 CPs is 14.145441272000426
+Running tensorly version 0.6.0
+Runtime for 10 CPs is 15.706550804000472
+Running tensorly version 0.5.1
+Runtime for 10 CPs is 13.24064584900043
+Running tensorly version 0.5.0
+Runtime for 10 CPs is 15.428937661000418
+Running tensorly version 0.4.5
+Runtime for 10 CPs is 13.758153636000316
+Running tensorly version 0.4.4
+Runtime for 10 CPs is 16.10983427699921
+Running tensorly version 0.4.3
+Runtime for 10 CPs is 5.178578480999931
+Running tensorly version 0.4.2
+Runtime for 10 CPs is 8.262633802999517
+Running tensorly version 0.4.0
+Runtime for 10 CPs is 9.182569708000301
+Running tensorly version 0.3.0
+Runtime for 10 CPs is 8.927185896999617
